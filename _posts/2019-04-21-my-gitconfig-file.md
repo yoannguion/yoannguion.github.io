@@ -3,6 +3,8 @@ layout: post
 title: "My git config file"
 ---
 
+# My git config file
+
 ```
 [pull]
 	rebase = true
