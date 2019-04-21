@@ -1,4 +1,7 @@
-My git config file
+---
+layout: post
+title: "My git config file"
+---
 
 ```
 [pull]
